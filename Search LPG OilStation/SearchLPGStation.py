@@ -401,6 +401,6 @@ InitReceiveEmailLabel()
 InitEmailButton()
 InitRenderText()
 if start == 0:
-    messagebox.showinfo(title="완료", message=spam.enterLine())
+    messagebox.showinfo(title="어서오세요!", message=spam.enterLine())
     start = 1
 g_Tk.mainloop()

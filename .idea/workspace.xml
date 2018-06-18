@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bd53a7d-cec2-4f2b-b21b-c34c6f3e840d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Search LPG OilStation/SearchLPGStation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Search LPG OilStation/logo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Search LPG OilStation/mysmtplib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Search LPG OilStation/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Telegram/noti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Telegram/teller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search LPG OilStation/SearchLPGStation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Search LPG OilStation/SearchLPGStation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +17,8 @@
       <file leaf-file-name="SearchLPGStation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Search LPG OilStation/SearchLPGStation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="404" column="13" selection-start-line="404" selection-start-column="13" selection-end-line="404" selection-end-column="13" />
+            <state relative-caret-position="510">
+              <caret line="392" column="16" selection-start-line="392" selection-start-column="16" selection-end-line="392" selection-end-column="16" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -44,7 +38,7 @@
       <file leaf-file-name="script.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Search LPG OilStation/script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2413">
+            <state relative-caret-position="-212">
               <caret line="129" column="25" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="25" />
               <folding>
                 <element signature="e#24#100#0" expanded="true" />
@@ -56,8 +50,8 @@
       <file leaf-file-name="teller.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Telegram/teller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="30" column="46" selection-start-line="27" selection-start-column="13" selection-end-line="30" selection-end-column="46" />
+            <state relative-caret-position="643">
+              <caret line="115" column="28" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -116,9 +110,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="16" />
-    <option name="y" value="39" />
+    <option name="y" value="16" />
     <option name="width" value="976" />
     <option name="height" value="960" />
   </component>
@@ -298,14 +292,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="39" width="976" height="960" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32867885" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.242891" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21808511" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -326,7 +320,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Search LPG OilStation/script.py</url>
           <line>174</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -732,6 +726,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MANIFEST" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Telegram/noti.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
@@ -744,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Telegram/teller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="30" column="46" selection-start-line="27" selection-start-column="13" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="643">
+          <caret line="115" column="28" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -754,7 +756,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Search LPG OilStation/script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2413">
+        <state relative-caret-position="-212">
           <caret line="129" column="25" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="25" />
           <folding>
             <element signature="e#24#100#0" expanded="true" />
@@ -762,18 +764,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MANIFEST" />
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Search LPG OilStation/SearchLPGStation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="404" column="13" selection-start-line="404" selection-start-column="13" selection-end-line="404" selection-end-column="13" />
+        <state relative-caret-position="510">
+          <caret line="392" column="16" selection-start-line="392" selection-start-column="16" selection-end-line="392" selection-end-column="16" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
